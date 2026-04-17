@@ -2,5 +2,6 @@ node_modules/
 session/
 downloads/
 messages.db
+messages.txt
 qr.png
 .env
