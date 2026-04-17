@@ -1,0 +1,6 @@
+node_modules/
+session/
+downloads/
+messages.db
+qr.png
+.env

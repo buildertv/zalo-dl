@@ -1,0 +1,9 @@
+{
+  "download": {
+    "enabled": true,
+    "privateChat": true,
+    "groupChat": true,
+    "allowGroups": [],
+    "allowUsers": []
+  }
+}
